@@ -1,0 +1,91 @@
+body {
+    font-family: 'Crimson Pro', serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 500px;
+}
+
+.Paragraph {
+    font-size: 24px;
+    font-weight: 100px;
+    text-align: justify;
+    color: black;
+}
+
+.name-color {
+    color: orange
+}
+
+.flexible-container {
+    display: flex;
+
+}
+
+.half-width {
+    width: 50%;
+    margin: 30px 50px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    padding: 20PX 20PX;
+}
+
+.half-width img {
+    width: 75%
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-size: 30px;
+    color: white;
+    border-radius: 8px;
+}
+
+.my-mission {
+    text-align: center;
+}
+
+.third-div {
+    color: blue;
+    margin: 10px 50px 10px 50px;
+    text-align: center;
+    padding: 0px 50px 0px 50px;
+    border-radius: 40px;
+    margin-bottom: 50px;
+}
+
+.third-head {
+    margin: 0px;
+    font-size: 60px;
+    font-weight: 800px;
+    color: tomato;
+}
+
+#bag-color-1 {
+    background-color: rgba(79, 157, 166, 0.1);
+}
+
+#bag-color-2 {
+    background-color: rgba(255, 89, 89, 0.1);
+    ;
+}
+
+#bag-color-3 {
+    background-color: #FFF4D6;
+    ;
+}
+
+.bag-img {
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 280px;
+}
+
+.section-control {
+    margin-bottom: 50px;
+}

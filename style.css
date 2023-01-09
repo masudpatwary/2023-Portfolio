@@ -33,9 +33,11 @@ h1 {
 }
 
 .half-width img {
-    width: 75%
+    width: 100%
 }
-
+.third-half-width img{
+    width: 100%;
+}
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
